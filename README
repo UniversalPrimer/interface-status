@@ -1,0 +1,4 @@
+
+The Interface Status program is a Linux C program that gets the status (up/down) and IP address of every network interface on the system. In version 1 of the Universal Primer it will likely be used to select which interface to broadcast over.
+
+Later, this code will facilitate selection of interfaces for an flv stream splitter and recombiner that will split a stream over several connections and recombine them at the server in order to allow broadcasting wirelessly using several bundled 3G / wifi / wimax connections.
